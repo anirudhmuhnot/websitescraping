@@ -1,0 +1,392 @@
+ccopy_reg
+_reconstructor
+p0
+(cpandas.core.frame
+DataFrame
+p1
+c__builtin__
+object
+p2
+Ntp3
+Rp4
+(dp5
+S'_metadata'
+p6
+(lp7
+sS'_typ'
+p8
+S'dataframe'
+p9
+sS'_data'
+p10
+g0
+(cpandas.core.internals
+BlockManager
+p11
+g2
+Ntp12
+Rp13
+((lp14
+cpandas.core.indexes.base
+_new_Index
+p15
+(cpandas.core.indexes.base
+Index
+p16
+(dp17
+S'data'
+p18
+cnumpy.core.multiarray
+_reconstruct
+p19
+(cnumpy
+ndarray
+p20
+(I0
+tp21
+S'b'
+p22
+tp23
+Rp24
+(I1
+(I5
+tp25
+cnumpy
+dtype
+p26
+(S'O8'
+p27
+I0
+I1
+tp28
+Rp29
+(I3
+S'|'
+p30
+NNNI-1
+I-1
+I63
+tp31
+bI00
+(lp32
+S'Brand'
+p33
+aS'Name'
+p34
+aS'Heading'
+p35
+aS'Description'
+p36
+aS'Rating'
+p37
+atp38
+bsS'name'
+p39
+Nstp40
+Rp41
+ag15
+(cpandas.core.indexes.numeric
+Int64Index
+p42
+(dp43
+g18
+g19
+(g20
+(I0
+tp44
+g22
+tp45
+Rp46
+(I1
+(I28
+tp47
+g26
+(S'i8'
+p48
+I0
+I1
+tp49
+Rp50
+(I3
+S'<'
+p51
+NNNI-1
+I-1
+I0
+tp52
+bI00
+S'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+p53
+tp54
+bsg39
+Nstp55
+Rp56
+a(lp57
+g19
+(g20
+(I0
+tp58
+g22
+tp59
+Rp60
+(I1
+(I5
+I28
+tp61
+g29
+I00
+(lp62
+S'Maruti Suzuki'
+p63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+ag63
+aS'Hyundai'
+p64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+ag64
+aVMaruti Alto 800
+p65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+ag65
+aVMaruti Omni
+p66
+ag66
+ag66
+ag66
+ag66
+ag66
+ag66
+ag66
+ag66
+ag66
+ag66
+aVMaruti Alto, India's all time favorite car!
+p67
+aVMy First Car Experience :)
+p68
+aVExample for small suv car.... Its great full car
+p69
+aVExcept safety & quality remaining all are good.
+p70
+aVVery good city car and first owner car
+p71
+aVMy Alto800 CNG: Live to drive. (purchased March 2016)
+p72
+aVAlto LX silky silver -My second car
+p73
+aVBest Car for Learners/Beginners.
+p74
+aVThe only thing u get from this tiny machine is good mileage
+p75
+aVBest for New Learnes
+p76
+aVValue for money car
+p77
+aVA car that I am prisoner of
+p78
+aVA value for money car. The alto 800
+p79
+aVReal value for money car
+p80
+aVFull Review Exterior Good looking,height is also good as com
+p81
+aVNICE CITY CAR
+p82
+aVMy Adorable Run Utility Transport Itself 800
+p83
+aVLooking awsom
+p84
+aVExcellent value for money car
+p85
+aVMaruti Omni
+p86
+aVMINDBLOWING CAR FOR MIDDLE CLASS FAMILY
+p87
+aVBest app car Dekho.com
+p88
+aVMaruti Omni Sell
+p89
+aVAbsolutely Maruthi Omni is Worthy to buy
+p90
+aVThe Van at Cheaper Rate
+p91
+aVExcellent pricewise
+p92
+aVMaruti omni ambulance
+p93
+aVBad car
+p94
+aVAlto, the household name for a lot of Indians, well in India that is! A car that if not owned by you or your dad or your cousin, there's someone in the family definitely having one right now! It is the car of choice for many of us for our FIRST CAR to get a hang of driving or in the local language, 'haat saaf carna'. My 2010, 796cc Alto is a nice, cute 'Fire Brick' red one and as you have guessed by now, it is also my first car as well! Design and style The 2010 Alto, from my opinion is a much better overall looking car (along with its K10 sibling) than its successors. It's got all the dimensions from almost every angle right on with the design flow unlike the later models which kinda looks like the design guys sorta forgot the deadline of the design submission and just came up with last minute thoughts on the night before, just like how most of us prepare for our examinations. Anyway, it's not a great design but not a bad one either. It's just got it as how things should function. Headlamps on the correct level, grille big enough to let the car breathe well at all times, tail lamps clear enough for everyone behind to notice, windows wide enough for clear view for all angles with minimum blind spots, etc. Look wise, it basically looks and feels cute more like a puppy dog. Period! The cabin is typical 1980s. It's not a bad thing, considering many 80's Japanese cars pretty much had similar styling which makes you feel nostalgic in a good way. The only electronic device inside is the after-market music system. The rest is the good 'old-fashioned' manual way, starting from the gear to the seat positioning to the door locks (no center-locking as well), every bit is manual. It's a mixture of different shades of grey (I guess 3) but not so bad to the eyes. Neat window openings ensure the cabin is well lit but talking about the windows, the rear ones don't go all the way down. Seating again is pretty much spot on for the driver and is comfortable in spite of the lack of rake and reach options of the steering wheel, but at the rear, the story is just the opposite. Let's say you would only prefer sitting behind if a tiny person or someone who loves to hug the steering wheel and drive is behind the wheel, and its comfy for just 2 and 3 is obviously a squeeze.. That leads us to the AC unit. Its a decent one and can cool in the summer only when the car is on the move with good speed, so until then, you guys shouldn't get too excited on the back seat. Performance, ride & handling The 796cc is kinda gem of an engine if not a diamond. Not just that it's highly reliable, but it's quite fun to drive as well. It also does sound lively for a 3 pot and it's also rev-happy. If you got a straight stretch of road you can check it out for yourself with the engine noise complementing your speed build. So talking of performance, all the above mentioned is apparent when you are in SPORT mode. OK, I'm sure you are like, SPORT mode in an alto? Yes, let me get to it, shall I. There's a button which spells AC. So when the button is switched off, there is no strain from the AC, so well full power to the engine and hence the SPORT mode and of course with it switched on, I call it the (well, you guessed wrong) SLOW mode, since it's not at all economic when the AC is on (simple physics and fact, you all know it!). Hence no ECO mode here! Yes, all these apply when the blower is running. On a cool or pleasant day none of these matter! So 0-100 kph, I've never really timed it but yea takes bit a while and reaches its stability peak at 110kph, after 120, it feels slightly wobbly and also never got to go beyond due to traffic and not good road conditions, so not a risk worth trying beyond safe conditions! So talking about performance, all I can say is, it took well less than 10 minutes to cross the Eastern Freeway with moderate traffic and 4 guys in the car ranging from medium to fat (healthy) and that too in the SLOW mode! The suspension is decent enough for our urban road conditions, same goes true for the ground clearance, which helps (along with some skill) when the city gets submerged under water during monsoons as it always does. Safety features It's got the basics: brakes and seat belts. The rest is on you! Verdict Forgot to mention, the question usually which the nation wants to know, the fuel efficiency. Well I haven't properly calculated, but with my rough calculations, it ranges from 16 to 18 kmpl for me depending on factors of AC, load being carried, mood of driving, etc. Also not to forget another most important reason, the spare parts and after sales costs. Fortunately, it's really cheap. So finally! The answer to the BIG question to this SMALL rather SUPER-SMALL car... All the reasons mentioned above just prove why it is India's favorite car even right now with competition from the Eon, Go, Kwid, etc. But these cars are great in their respects as well. But then again we are an extremely price conscious and shrewd country also with a look out for the trust and wide spread service centers, all of which can be definitely ticked under the Maruti brand.\u000a
+p95
+aVHey Guys,\u000a\u000aI am not a professional Car Expert. But yes after a driving of over 5500 kms I am writing my experience with my own Alto 800 LXI Petrol car.\u000a\u000aTo start with, for a new car driver and to ride in a City this car is good. However,\u000a\u000a1) Don't leave the car in open in summers as the car will heat up like a furnace.\u000a\u000a2) Company did not provided left side rear view mirror.\u000a\u000a3) When you switch on the AC the car pick up drops drastically and even the co-rider will feel this sudden drop in the power. Lol\u000a\u000a4) The car interior quality is not so good. Once you switch on the AC and if you switch off the AC after some time than the car will full of odor.\u000a\u000a5) You need to do the balancing after every 5000 kms.\u000a\u000a6) Door quality is also not so good. Doors are vibrating when you drive your car at 100 or 110.\u000a\u000a7) After driving the 5500 kms the front and rear glass are making noise. Even after complaining to maruti showroom they replied that this much noise is normal. But this is abnormal for any car.\u000a\u000a8) If your office / work place parking is not having the shade than please don't buy a metallic color. As the color gets dull within just 4 to 5 months. Buy white or silver color and you will feel your car age as very old even if your car is new.\u000a\u000aThat's it from my side as of know.
+p96
+aVHii guyes its awsome car Superb power steering Superb interior Superb good looking Superb power of engine And great great superb mileage.... Totally hatch base car for your family.... Experience drive this car so nice.... Car a/c perfect cooling instantly.... Gear shifting its smoothly... Car suspension its greatfull...\u000a
+p97
+aVI bought Maruti Suzuki Alto 800 LXI one months ago. This is my first car. I bought this car because of less cost, cheaper than alto 800 also by seeing maruti brand. Good mileage and less maintenance. This car fullfills all above things, after driving this when you sit in another car you feel your car quality has to be improved. You can't be compared with them.\u000aAfter using this what i feel quality of car is worst both from interior and exterior. Inside doors are not even made with plastic. I feel exterior metal can be bent even by a small kid. My height is 5.6ft, driver seat is not comfortable when get in to the car and come out from car, because gap between seat and steering wheel is very less. Safety and durability of car only god knows. I hope company will improve quality in coming days.\u000aGear changing is very smooth, steering wheel very light, clutch,every thing is good simply driving this car is very easy. Engine noise also less.\u000a
+p98
+aVThis my 6th car in my life , started with old 800 maruti way back in 1991, owned new santro,accent petrol, I 20 diesel asta, now I own honda amaze and maruti LXI(all new), i feel Maruti LXI is a car with a good mileage, maneuverability, parking convenience, least maintenance cost and availability of service stations with all spares. Maruti i found excellent for city conditions in all aspects, one caution, go for metallic silver or white as summers are really hot in hyderabad.\u000a
+p99
+aVExterior is very decent. Nice soothing body and is always pleasant and decent to look at. Interior (Features, Space & Comfort) Plastic quality needs to be improved. The colour tone can change to black and beige. Interior is liveable. Engine Performance, Fuel Economy and Gearbox I have covered nearly 13000 Kms in about 9 months. It's very peppy car and has never disappointed me. I have taken it even for long journeys many times and it has never disheartened me. It's a very good car to drive. I travel around 1400-1500 Kms a month and car has been an excellent companion so far. Even my father loves to drive this car. I get the xtra premium and power petrol filled in it and not the common/normal petrol. It gives an amazing mileage of 34km/ltr on this kind of petrol and gives 25km/kg on Cng. Cng cylinder is 10 Kg which fills to around 5-6 kg at best. Ride Quality & Handling Ride quality is excellent probably the best in the segment. I rejected Eon and KWID for it. It's that good. Final Words: It's an excellent companion to have and will never let you down. I have covered nearly 13000 Kms in about 9 months. Just ensure you get the service done on time and take care of things such as tyre pressure refill etc. Areas of improvement The greatest letdown of such an excellent package for maruti are their dealers. They are thieves in broad daylight. 3 free services from Magic Auto (moti nagar) have costed me Rs.8500. They charge Rs.1800 for wheel alignment of Alto. That is the biggest drawback. Maintaining Alto is no longer cheap if you get the service done by a dealer.\u000a
+p100
+aVAlto LX silky silver is my second car after Maruti 800 DX 5-Speed, I chose it because of low cost of purchase, maintenance and the brand trust that I got from my first car. \u000a\u000aWe bought the car from Audi Motors, Sri Ganganagar, Rajasthan in last month of 2010. The experience was positive and painless owing to new dealership that opened recently in our city. We went for full payment at once, which was Rs.3,34,000/- on road, with all the accessories, RTO and Insurance.\u000a\u000aToday, the Alto has been driven around 32,000 kilometers. I mainly used it on highways 80% percent of the Kms driven. Most of the time my car is driven with full passenger capacity of either 4 or 5. I barely remember driving it alone as I purchased it for family requirement as our village has less public transport connectivity. Driving alone, I prefer my bike. We are getting a decent mileage of around 18-19 all the time. The stock Apollo tubeless tyres are running quite good even after completing 6 years with just 2 punctures, planning to change the same at 40,000 kms.\u000a\u000aAC performance is quite good and it takes less than 5 minutes to cool down even in hot summers. The only drawback using AC is to comprise with the engine power owing to its 0.8 liter engine. There is almost 10-15% reduction in engine power with AC on, but once the car is on highways you won?t feel the difference.\u000a\u000aMy car was bought and has always been serviced at Audi Motors, Sri Ganganagar, Rajasthan. I have not visited any other workshop for anything to do with the car. At around 22,000 kms there was a problem with the throwback bearing and I got it replaced at the service center only. The only shocking thing that I noticed was the labor cost. The charged a labor cost of around 1100 and the part cost was only 500. I inquired about this from the service personnel and he explained me for the high labor cost. The whole gearbox needs to be separated from the engine to access the clutch assembly and this is the main reason for the high labor cost. Apart from this I haven?t spend anything on the parts, its just the regular service, oil and coolant changes that my car had gone through. \u000a	\u000aPros\u000a\u000aLow maintenance cost\u000aExcellent fuel economy\u000aLight, & easy to drive\u000aExcellent AC\u000aExcellent after-sales service\u000a\u000aCons\u000a	\u000aNot so effective brakes at 90+ speed.\u000aLack of initial acceleration with AC on\u000aLow ground clearance (with full load)\u000a
+p101
+aVThis is made for the small family and for the middle class people and also for the learners who wish to learn the vehicle for the first time.Exterior is ok. It is not so stylish as Swift or any other hatcback, but a decent looking car. Interior (Features, Space & Comfort) It has more space than EON, Spark, Nano at competitive prices (Nano is cheaper but its auto rickshaw with 4 wheels). In 3 Lakhs this Maruti 800 offers the best features & comfort. EON & Spark look bigger but once you go through the cabin space, in all the 4 cars (including Nano) Maruti/ALTO 800 offers more for less price. Though, Spark has the best Front seats with adjustable Head Rest. Cars (like Honda Brio & Toyota LIVA/ETIOS) with much higher price tag also offer similar front seats with No adjustable head rest. ALTO can be compared with these in this area. Engine Performance, Fuel Economy and Gearbox This is the most familiar engine, which most of the Indian motorists hace gone in some part of the life. This 800 CC motor is far superior than Hyundai EON & Chevy Spark's much larger motors. Fuel efficieny...Kitna Deti Hai...? Best among all Petrol cars. Gearbox drivability is unmatched even by higher segment Santro & Beat. Ride Quality & Handling ALTO 800 has fantastic handling and promising ride quality. not so powerful engine bt still it give the best output. whenever i press my leg over the acc. pedal i can feel that car really get a higher speed n the thrill of this can only b felt by a real master then Driver. It's fantastic. Final Words City freindly, user freindly and value for money car. Yes, good resale value for your car. Areas of improvement Need to include trip meter, Rear seat headrest,and rear power window. Good : Excellent Value for Money. Low cost to own & maintain Bad : Front seats uncomfortable as Head Rest can not be adjusted Up or Down\u000a
+p102
+aVmaruti is out of date.dealers will give u false info about the availability of CNG,you need to wait for hours in between autos for gas. the only thing this micro machine gives is a good mileage. the cabin has ZERO sound insulation,even the conversation of inside people can be heard clearly. engine makes much noise at higher speeds.i have done around 145 KMPH at the top. the steering looses it weight gradually while increasing speed. pick up is worst with 4 people and AC on. in summers it takes around 15 min to bring down the cabin temperature. AC is very much noisy, the max you will be able to bear it is in 1 or in 2 level. the company provided horn is mostly not audible in noisy roads and in high speeds. the lighting in not at all enough. wipers will not be able to clean the wind screen clearly,water storage for cleaning the wind screen in very less.steering is hard in rest or in small speed and become weight less in higher speeds. it will skid even you are in 40 KMPH and the road is having good grip when sudden hard brakes are applied.\u000a
+p103
+aVThe car is really amazing for Learners.The condition,AC,Seats everything helps people feel & enjoy the ride in effective manner.Low Cost which gives people from middle class also buy the Vehicle and enjoy the trip.\u000a
+p104
+aVi am talking about my lovely car alto 800. this is the best car i have ever had easy to maintain easy to drive. classy look and classy interior. lets talk about car over view. the main thing in this car is fuel consumption its gives me 20.3kmpl in cities and 25kmpl on highways. its a 796 cc engine which gives 47.3 bhp@6000 rpm. and 69 Nm torque@3500 rpm.its top speed is 140 kmph and its acceleration 0-100 kmph is 19 seconds.it has 35 ltrs of fuel tank capacity. and have a good 177 ltrs boot space.now lets talk about its comforts specs. its have air conditioner and very good power steering remote trunk opener and remote fuel led opener. and also have accessory power output. its also have adjustable seats. its have a c.d player and have front speakers and have usb and aux input its also have a rear seat headrest its have a fabric upholstery and have bottle holder in front and rear doors.its also have central locking system . rear seat belts.child safety locks and engine immobilizer . this the best value for money car and king of the industry there is other car available in market other than this go for it buyers this the best you can get.\u000a
+p105
+aVYes, many would be surprised as one still reviews a car like the Classic Alto 800. I do and vouch for the car that made me the proud four wheeler owner way back in 2006. It was and still is the average Indian car that faithfully carried on the legacy of its predecessor the legendary Maruti 800. I had driven the machine a decent 40,000 kms as would any car shy bike addict. It served me like a trusted warrior night and day, giving not a single moment of embarrassment either in the scorching heat of sunny afternoons or in the fiery downpour of the monsoon late evenings. It rode through with great compassion in rain and shine yet the least fleecing on gas stations. My neighborhood mechanic happily obliged to its meager needs on top ups and seasonal rejuvenative therapies and it went on and on me growing up along and coming of age. Its decent yet limited resources stood me in good stead all along as the automobile industry grew leap and bound showcasing machines that both marvellous and awe-inspiring. The humble family of mine too grew and true to times clamoured as the spectacle of neighbourhood beauties disturbed their ego like no other and the demand for a better car are ringing in my ears, yet I am indecisive and perplexed, do we really need another car as yet? Still sadly for all practical purposes I may go for another machine, perhaps a compact sedan, but the Alto will still linger as most suitable and decent compromise ever for Indian roads. In its new avatar with the classy looks, the huge gains in mileage, comforts and safety will still give it the edge and give other cars of the segment a true and great run for their money. Perhaps AMT and a lustrous infotainment panel will give the extra edge and render it the most stylish compromise wagon ever..\u000a
+p106
+aVMaruti has always sending game changers into the Indian automobile market . Right from the first generation Maruti 800 it has really played the profit game very well the 800 was a blockbuster given that its huge popularity and fanebase it has been an AllSTAR in every sense , but as we say the old has to make way for the new and it had to retire from the market after many glorious years of victory . And maruti has to fill up this huge blank once again to give general public a people's car once again . Then came the ALTO with same blood in its veins that is in its retired brother and it did what it was build from it once again take maruti way ahead from its competitors its simple design language is its identity and of course its a maruti which means ( Strong dealer network, wide service network , low maintenance cost, and reliability as we always get from maruti cars ) the alto dominated the small cars market and it has not given its throne to anyone till now although Renault has the kwid but even the kwid with it's feature packed package has not eliminated altos customers by any means it still has that poster boy image of its as always it had . Added to that today's alto comes with additional fog-light and airbag option with the already existed front power doors as the old one so it has also become more alluring package then before now without features like touchscreen . automatic transmission etc like the kwid .I in general love the alto for what it is and because it is a maruti even in a situation of a breakdown i can fix my car by any mechanic because every mechanic either he knows any other cars work or not but when it comes to maruti its not a problem everyone knows how to fix a car of maruti because of enormous amount of maruti customers in the country one generally has worked on a maruti before, its quite general in india you will find a maruti in every locality . The alto is a lovely little car i own the 2012 alto the old alto and i find the build quality of the old alto a bit better then nowadays alto but its still not unacceptable only because of its legacy created by its predecessors . With such a popularity only i guess maruti can stop the alto to dominate the market which they can never do because only alto is there constant performer all others are no doubt are great products but still gets great challenges from other manufacturers and tend to loose its power a bit but the alto is a hero without any disguise its just perfect for everyone and i do will change my alto for a 2017 swift but my respect for this great car will never decrease thats all i have to say for the alto 800 .\u000a
+p107
+aVi have this car from 2009 till now. and i want to say that i am fully satisfied with car. this is very compact to use in cities like Delhi which is very full of traffic. the average of this car is very awesome its gives me 19 kmpl in cities and 24-26kmpl on highways. and this car is very easy to maintain & has a good fuel efficiency. the interiors is very simple and classy. this car is really made for middle class family. this is good for 5 person. air condition is very awesome. i have wine red color which looks very good. power steering is very good. its more that a family budget car.as we all know maruti is a king of car industry in sales department. no doubt about alto that it's a very good car on road that we have today. i suggest all the buyers to go for it, will never let you down. as now the more variant of alto has came & we have more options with new technologies now. you can buy this blindly. i suggest all peoples to go for this, really value for money car. even after sales services is very cheap so no worry about after sales services.\u000a
+p108
+aVExterior: Good looking,height is also good as compare old alto,front look is like a ford figo and side look is like a i20.\u000aInterior: (Features, Space & Comfort) Great look and comfort,easy handling,leg room also nice,and good fuel efficiency car Interior space was adequate for four. When compared to the Zen Estillo and A Star, the rear seat leg space was more and the car felt roomier.\u000aI saw one family taking delivery of a new Alto 800- there were SIX adults in the car, four sitting on the rear seat. This proves that the car is very roomy!!! Engine Performance, Fuel Economy and Gearbox Nice but engine displacement is 796 cc, it need some improvement. Ride Quality & Easy handling, good for city use and I can say that the ride quality of the new car was much better than the old one. Handling- cannot comment as the test drive was not long enough. Final Words Nice car, A much better car, better buy than the other Maruti small hatch backs. Areas of improvement Rear seat headrest,and rear power window.\u000a
+p109
+aVI am driving this car for around 2 years and I am very much pleased with the performance of the car in city driving. It gives excellent mileage of 18kmpl in city and above 20 on highways and maintenance is really very less.\u000a
+p110
+aVMaruti the Name synominious to hanuman .so when the name is similiar the strength is also similiar the benifts of small 800 cc car gives you good milage easy maneover in heavy trafic the visibilty is clear so not wastage of road length keeping your car at much distances for others to not even cross the green light secondly the maintainace cost is low an meliage is high so it is win win situation to the buyers third durabilty of the vehicle almost i am touching my 15 years on march 2017 and the vehicle is fansatic if the govt rules allow i can drive further another 15 years .if you look the exterier paint of the car its shine like as it is 2-3 years old . i can say my lord maruti ( Hanuman) has suggested me the same vehicle as his name stands to go with me like he cares me in my life for all my development my car has also giving me life opportunity in past 15 years on my development and never ever failed on road due to punture or any any mechanical electrical problem it is the good bet i have done in 2001 so for new generation i can suggest go with your capcity of purchase but the brand is maruti ( Hanuman) .like bajrangbali is available Pan india as maruti workshops are available Pan india Jai hind Jai Maruti Nandan\u000a
+p111
+aVThe Maruti Suzuki Omni pioneered a segment in the Indian automotive industry. This versatile car comes with an option between an 8-seater and a 5-seater, and is available in 4 variants, which includes cargo and ambulance as well.\u000a
+p112
+aVLook and Style: The Omni has a look which many would grade as downmarket. It has no gadgets, only basic seats are provided but they are comfy ergonomically.\u000aPickup: If you have to drive in crowded city it's fine. It gives a mileage of 12kmpl.\u000aBest Features: The space 
+p113
+aVLaunched in 1985, the Maruti Suzuki Omni pioneered a segment in Indian automotive industry. This versatile car comes with an option between an 8-seater and a 5-seater and is available in 4 variants, which includes cargo and ambulance as well. It has gone a long way in serving the consumers as a dual usage vehicle and helps its consumers in both personal as well as business needs. With 15.7 million satisfied Omni customers placing it amongst the top selling cars in India, this car with its high-roof, sliding doors, versatile space, and many more features add to the unique charm that has been a favourite of many Indian households.\u000aOver the years, Maruti Suzuki Omni has continued to grow from strength to strength on account of its exceptional reliability and dependability. And because of this, it is hugely adored by its customers. The 5-seater variant enables you to take care of your personal as well as business needs. Be it a family gathering or a trip to a near-by market place, this 8-seater variant lets you take your whole family to places without any hassles.\u000a
+p114
+aVHi, i am Tapas and i wanted to buy a car . one day i searched online and i see my favourite car Maruti Omni. which were lot of function, low fuel mileage , eight person seat capacity , good looking , stylish, and lowest price in india. This car is very useful for villagers and also big family because there have eight seat capacity. so i once need to buy this car and I go durgapur , in that case while i had 40000/- Rs available i dont think about these matter i was thinked for EMI facility 5000/- per months so i go to showroom and choice my best one of the car Maruti Omni. I like this because this is not only good looking , there have lot of feature and there door close open option are very likable . i talk to distributer and know about this car more than i know and talk to him about EMI facilty because i have not enough money, but there were i have not any problem i got EMI facilt and byu this car ..You should buy this car . it very use full. Thank you\u000a
+p115
+aVBest app. I knew very good information . Everyone can use this app. Before visiting showroom you can know about car. I impressed.\u000a \u000a
+p116
+aVI am driving this Maruti Omni past 7 months and I am quite satisfied with it. I was looking for something that is easy to drive in city conditions as well as fun to drive when you go out of town. This Car is very useful in big family Because siting capacity is 8 seater. \u000a
+p117
+aVWe bought Maruti omni car 5 years back.Till now maruti has suffered from Minor repairs. Not Major.Superb car performances in terms of mileage, speed and maintanance.Suggested for long travel.But persons sitting on rear seat will feel like a bus due to its suspension. Lack of A/c. It's a good option for middle class peoples seeking for 8 seater for low budget.\u000a
+p118
+aVLook and Style: Looks and styling are outdated, not very still the same resemblance its outdated.\u000aComfort: Yes, its spacious but not comfortable, not a sturdy vehicle would not recommend it for buying.\u000aPickup: Pick up is okay, not so good it feels underpowered and not good to overtake with vehicle.\u000aMileage: Mileage is an okay factor.\u000aBest Features: Spacious, good leg space\u000aNeeds to improve: A lot of improvement has to be done on the vehicle exterior styling needs to be improved and the vehicle needs to have a complete new look but it's best suited for transporting goods and for ambulance services\u000aOverall Experience: Okay I would give 3/5 to it.\u000a
+p119
+aVLook and Style of Omni has a look which many would grade as downmarket no gadgets basic seats but comfy ergonomically. Comfort Pickup If u have to drive in crowded city fine Mileage12 per km per ltr. Best Features the space & the sliding door which helps in small parking & loading unimaginable things---long rods, foll size mirrors, bags of various items, plants & pots, u name it.The height advantage is superb after this you will never ever feel like driving a sedan. Needs to improve suspension ,ac, some doo-daas. I am now looking for a suv with same specifications -sliding door and ac, keyless entry, same but with bigger tyres and better suspension good space for four tall people. Overall Experiencei love my omni for space, maneoverability.\u000a
+p120
+aVLook and Style ok Comfort -ok Pickup-up to mark for its category Mileage-ok Best Features-its competitive price Needs to improve--THE SALE WILL INCREASE DRAMATICALLY IF LENGTH OF MARUTI VAN IS INCREASED SLIGHTLY BY 6 INCHES TO ONE FOOT. Overall Experience-fine\u000a
+p121
+aVLook and Style Comfort Pickup Mileage Best Features Needs to improve Overall Experience bad performance after 4 years . After 32000 kms its performance was not good. the steering box provided to this maruti vehichle is very por in performance. I changed it twice within 2 years. more over this vehichle's overall performance is not good.\u000a
+p122
+aI5
+aI4
+aI5
+aI3
+aI5
+aI4
+aI5
+aI4
+aI1
+aI5
+aI5
+aI3
+aI3
+aI5
+aI5
+aI4
+aI5
+aI4
+aI4
+aI5
+aI5
+aI5
+aI5
+aI5
+aI3
+aI4
+aI3
+aI1
+atp123
+ba(lp124
+g15
+(g16
+(dp125
+g18
+g19
+(g20
+(I0
+tp126
+g22
+tp127
+Rp128
+(I1
+(I5
+tp129
+g29
+I00
+(lp130
+g33
+ag34
+ag35
+ag36
+ag37
+atp131
+bsg39
+Nstp132
+Rp133
+a(dp134
+S'0.14.1'
+p135
+(dp136
+S'axes'
+p137
+g14
+sS'blocks'
+p138
+(lp139
+(dp140
+S'mgr_locs'
+p141
+c__builtin__
+slice
+p142
+(I0
+I5
+I1
+tp143
+Rp144
+sS'values'
+p145
+g60
+sasstp146
+bsb.
